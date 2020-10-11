@@ -1,4 +1,4 @@
-# covid19tracker
+# COVID-19 Tracker
 A simple COVID-19 live data generator web app using vanilla Javascript, COVID-19 API, and basic HTML.
 
 # User Story
